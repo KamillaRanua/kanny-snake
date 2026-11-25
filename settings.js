@@ -8,7 +8,7 @@
 var GAME_TITLE = "SNAKE";
 
 // How fast the snake moves. 1 = sleepy, 10 = panic.
-var SNAKE_SPEED = 5;
+var SNAKE_SPEED = 4;
 
 // How long the snake is at the start. Anything from 2 to 20.
 var START_LENGTH = 4;
@@ -25,7 +25,7 @@ var SCREEN_THEME = "green";
 
 // Phone colour. Colour names and hex codes both work.
 // Try "tomato", "navy", "hotpink" or "#2e8b57".
-var PHONE_COLOUR = "#f2c14e";
+var PHONE_COLOUR = "#a82a82";
 
 // Beeps on or off. true or false.
 var SOUND_ON = true;
