@@ -18,7 +18,7 @@ var FOOD_POINTS = 1;
 
 // true  = hitting the wall ends the game.
 // false = the snake comes out the other side.
-var WALLS_KILL = true;
+var WALLS_KILL = false;
 
 // Screen colour. Pick one: "green", "blue", "amber", "grey", "pink"
 var SCREEN_THEME = "green";
